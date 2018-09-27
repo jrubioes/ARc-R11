@@ -1,4 +1,5 @@
 -- +==============================================================+
+-- | MODULO                                                       |
 -- |  <AR>                                                        |
 -- | PROJECT                                                      |
 -- |  AR_PGICO18  Importazione Ricariche ATM,CRM                  |
@@ -21,6 +22,7 @@
 -- |  07/09/2009    tolta condizione cust_trx_type_name           |
 -- |  01/10/2009    defect 74295                                  |
 -- |  10/01/2014    CR26180
+-- |  27/09/2018    Adapting sql to AR Cloud data model           |
 -- +==============================================================+
 
 set serveroutput ON SIZE 1000000
